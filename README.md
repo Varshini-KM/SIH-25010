@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 # Date: 21-09-2025
-## Register Number:25018756
+## Register Number: 25018756
 ## Name: VARSHINI K M
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
