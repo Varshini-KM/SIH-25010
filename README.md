@@ -44,6 +44,7 @@ Agriculture, FoodTech & Rural Development
 <h3>The proposed solution addresses the critical gap in agricultural advisory services for small and marginal farmers through the establishment of "Farm Doctor" standalone AI-powered agricultural advisory kiosks. These innovative kiosks combine artificial intelligence technology with user-friendly physical infrastructure to provide accessible, reliable, and personalized farming guidance to rural communities.</h3>
 
 The solution consists of three integrated components:
+
 <b>1. "Farm Doctor" Standalone Kiosks</b>
 
 These kiosks are weatherproof, self-service stations installed at central points in villages. They act as mini extension centers where farmers can consult on crop selection, pest management, soil health, irrigation, and fertilizer usage without needing a smartphone or internet connection.
@@ -63,7 +64,7 @@ Understanding that literacy and language can be barriers, the kiosks provide voi
 For example, a woman farmer who cannot read interacts with the kiosk in her native language. The system identifies nitrogen deficiency in her soil, displays an icon representing the appropriate fertilizer, prints a recommendation card, and even schedules an audio reminder to apply the fertilizer in three days. This ensures timely and accurate execution of farming tasks.
 
 <h3>How It Addresses the Problem</h3>
-1. Personalized Advisory Access: Each farmer receives guidance specific to their field’s soil, crop, and weather. For example, soil tests at the kiosk recommend precise fertilizer types and amounts, reducing costs and environmental impact.
+ 1. Personalized Advisory Access: Each farmer receives guidance specific to their field’s soil, crop, and weather. For example, soil tests at the kiosk recommend precise fertilizer types and amounts, reducing costs and environmental impact.
 
 2. Overcoming Literacy & Language Barriers: Voice instructions, visual cues, and printed cards ensure even low-literate farmers can follow guidance.
 
@@ -73,23 +74,26 @@ For example, a woman farmer who cannot read interacts with the kiosk in her nati
 
 <h3>Innovation and Uniqueness of the Solution</h3>
 1. Physical-Digital Hybrid Approach: Unlike mobile app-based solutions, Farm Doctor combines advanced AI technology with physical accessibility, addressing both infrastructure limitations and user comfort preferences simultaneously
+
 2. Zero-Learning Technology Interface: The kiosk design eliminates the need for farmers to learn new technology skills. Simple visual navigation, voice guidance, and familiar consultation workflow ensure immediate usability without training requirements
+   
 3. Instant Problem Resolution: Real-time diagnostic capabilities provide immediate solutions for urgent agricultural issues such as pest identification, disease outbreaks, or soil deficiencies,Unlike traditional extension services, which may require days or weeks for advice, farmers can get timely recommendations on how to act.
+ 
 4. Continuous Learning Network: Each kiosk collects information on the problems reported and the solutions applied. Over time, this helps improve the accuracy and usefulness of the recommendations across all kiosks, allowing the system to offer more informed guidance based on practical experience.
 
 
 ## Technical Approach
 <h3>Technologies to be Used</h3>
 1. Software Development
-Backend: Django 4.2 with Python 3.11 for managing data and server processes.
+<b>Backend:</b> Django 4.2 with Python 3.11 for managing data and server processes.
 
-Databases: PostgreSQL for structured data, Redis for fast access
+<b>Databases:</b> PostgreSQL for structured data, Redis for fast access
 
-AI & ML: TensorFlow 2.13 and scikit-learn to analyze crop and soil data.
+<b>AI & ML:</b> TensorFlow 2.13 and scikit-learn to analyze crop and soil data.
 
-Computer Vision: OpenCV to detect pests, diseases, and nutrient deficiencies from images.
+<b>Computer Vision:</b> OpenCV to detect pests, diseases, and nutrient deficiencies from images.
 
-Voice Support: Google Cloud Speech-to-Text API trained in local agricultural terms.
+<b>Voice Support:</b> Google Cloud Speech-to-Text API trained in local agricultural terms.
 
 2. Hardware
 Computing: Intel NUC with GPU for processing images and AI tasks.
