@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 21-09-2025
+# Date: 22-09-2025
 ## Register Number: 25018756
 ## Name: VARSHINI K M
 ## Problem Title
@@ -64,7 +64,8 @@ Understanding that literacy and language can be barriers, the kiosks provide voi
 For example, a woman farmer who cannot read interacts with the kiosk in her native language. The system identifies nitrogen deficiency in her soil, displays an icon representing the appropriate fertilizer, prints a recommendation card, and even schedules an audio reminder to apply the fertilizer in three days. This ensures timely and accurate execution of farming tasks.
 
 <h3>How It Addresses the Problem</h3>
- 1. Personalized Advisory Access: Each farmer receives guidance specific to their field’s soil, crop, and weather. For example, soil tests at the kiosk recommend precise fertilizer types and amounts, reducing costs and environmental impact.
+
+1. Personalized Advisory Access: Each farmer receives guidance specific to their field’s soil, crop, and weather. For example, soil tests at the kiosk recommend precise fertilizer types and amounts, reducing costs and environmental impact.
 
 2. Overcoming Literacy & Language Barriers: Voice instructions, visual cues, and printed cards ensure even low-literate farmers can follow guidance.
 
@@ -73,6 +74,7 @@ For example, a woman farmer who cannot read interacts with the kiosk in her nati
 4. Building Trust: Physical presence in familiar locations, coupled with visible success stories, builds credibility and encourages adoption.
 
 <h3>Innovation and Uniqueness of the Solution</h3>
+
 1. Physical-Digital Hybrid Approach: Unlike mobile app-based solutions, Farm Doctor combines advanced AI technology with physical accessibility, addressing both infrastructure limitations and user comfort preferences simultaneously
 
 2. Zero-Learning Technology Interface: The kiosk design eliminates the need for farmers to learn new technology skills. Simple visual navigation, voice guidance, and familiar consultation workflow ensure immediate usability without training requirements
@@ -83,8 +85,10 @@ For example, a woman farmer who cannot read interacts with the kiosk in her nati
 
 
 ## Technical Approach
-<h3>Technologies to be Used</h3>
+<h3>Technologies to be Used</h3
+                            
 1. Software Development
+
 <b>Backend:</b> Django 4.2 with Python 3.11 for managing data and server processes.
 
 <b>Databases:</b> PostgreSQL for structured data, Redis for fast access
@@ -96,24 +100,53 @@ For example, a woman farmer who cannot read interacts with the kiosk in her nati
 <b>Voice Support:</b> Google Cloud Speech-to-Text API trained in local agricultural terms.
 
 2. Hardware
-Computing: Intel NUC with GPU for processing images and AI tasks.
+   
+<b>Computing:</b> Intel NUC with GPU for processing images and AI tasks.
 
-Cameras: High-resolution macro cameras for crops and soil analysis.
+<b>Cameras:</b> High-resolution macro cameras for crops and soil analysis.
 
-Interface: 15-inch touchscreen with large buttons; speakers and microphones for audio guidance.
+<b>Interface:</b> 15-inch touchscreen with large buttons; speakers and microphones for audio guidance.
 
-Output & Power: Thermal printer for instructions; solar panels with battery backup for continuous operation.
+<b>Output & Power:</b> Thermal printer for instructions; solar panels with battery backup for continuous operation.
 
-4. Integration
-Weather: Connects to Indian Meteorological Department for local forecasts.
+3. Integration
+   
+<b>Weather:</b> Connects to Indian Meteorological Department for local forecasts.
 
-Market Prices: Linked with e-NAM and local APMC databases
+<b>Market Prices:</b> Linked with e-NAM and local APMC databases
 
-Government Data: Access to soil health cards and farmer registrations for personalized guidance.
+<b>Government Data:</b> Access to soil health cards and farmer registrations for personalized guidance.
 
 <b><h3>Methodology and process for implementation</h3> </b>
 <b>System Architecture Workflow:</b>
 <img width="3840" height="1651" alt="Untitled diagram _ Mermaid Chart-2025-09-22-050700" src="https://github.com/user-attachments/assets/06a9cbb8-7a88-4de0-bf35-c9aab7d7fcdf" />
+<b>User Interaction Process Flow:</b>
+<img width="1229" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-09-22-050838" src="https://github.com/user-attachments/assets/0af4a5e2-de60-41e0-b8f9-85e75d684a5a" />
+<h3>Implementation Timeline</h3>
+
+<p><b>Phase 1 – Development & Prototyping (Months 1–6)</b></p>
+<ul>
+  <li>Collect datasets and train AI models using ICAR and state agriculture university data</li>
+  <li>Develop software, integrate AI, and prototype hardware</li>
+  <li>Conduct lab testing and usability validation</li>
+</ul>
+
+<p><b>Phase 2 – Pilot Deployment (Months 7–12)</b></p>
+<ul>
+  <li>Install 10 kiosks across diverse regions</li>
+  <li>Train local operators and engage communities</li>
+  <li>Collect feedback and refine AI and workflow</li>
+</ul>
+
+<p><b>Phase 3 – Network Expansion (Months 13–24)</b></p>
+<ul>
+  <li>Deploy 100+ kiosks across states</li>
+  <li>Integrate with government extension services and cooperatives</li>
+  <li>Establish technical support and maintenance infrastructure</li>
+</ul>
+
+
+                               
 
                               
 
