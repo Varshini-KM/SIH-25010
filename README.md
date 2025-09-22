@@ -41,10 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>The proposed solution addresses the critical gap in agricultural advisory services for small and marginal farmers through the establishment of "Farm Doctor" standalone AI-powered agricultural advisory kiosks. These innovative kiosks combine artificial intelligence technology with user-friendly physical infrastructure to provide accessible, reliable, and personalized farming guidance to rural communities.<\h3>
 
 ## Technical Approach
 <h3>Remove These Lines</h3>
