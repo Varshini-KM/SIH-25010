@@ -247,19 +247,16 @@ Agriculture, FoodTech & Rural Development
 
 <h4>Government Data and Policy Documents</h4>
 <ul>
-<li><b>NABARD All India Rural Financial Inclusion Survey 2021-22:</b> Confirms 86% of farmers are small/marginal with limited extension service access. 
-<a href="https://nabard.org/auth/writereaddata/tender/1608211215NABARD-AIF-Survey-Report.pdf" target="_blank">Read Report</a></li>
+<li><b>NABARD All India Rural Financial Inclusion Survey 2021-22:</b> Confirms 86% of farmers are small/marginal with limited extension service access.</li>
 
-<li><b>Digital Agriculture Mission 2021-26:</b> Government framework for agricultural technology integration and funding mechanisms. 
-<a href="https://agricoop.gov.in/en/digital-agriculture-mission-2021-26" target="_blank">Read More</a></li>
+<li><b>Digital Agriculture Mission 2021-26:</b> Government framework for agricultural technology integration and funding mechanisms.</li>
 
 <li><b>Ministry of Agriculture Extension Services Report 2023:</b> Documents extension officer to farmer ratio of 1:5000, highlighting the need for alternative advisory systems.</li>
 </ul>
 
 <h4>Academic Research</h4>
 <ul>
-<li><b>ICRISAT Technology Impact Study 2023:</b> Shows 10–30% yield improvements through AI-based advisory services. 
-<a href="https://www.icrisat.org/research-impact-stories/" target="_blank">View Study</a></li>
+<li><b>ICRISAT Technology Impact Study 2023:</b> Shows 10–30% yield improvements through AI-based advisory services.</li>
 
 <li><b>IIT Kharagpur Rural Technology Research:</b> Reports kiosk-based services have 4x higher adoption rates than mobile apps in rural areas.</li>
 
@@ -281,4 +278,5 @@ Agriculture, FoodTech & Rural Development
 
 <li><b>ICRIER Agricultural Marketing Study:</b> Documents 15–20% farmer income loss due to poor advisory access, validating the need for solutions like Farm Doctor.</li>
 </ul>
+
 
