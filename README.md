@@ -111,7 +111,7 @@ Agriculture, FoodTech & Rural Development
 
 <b>User Interaction Process Flow:</b>
 
-<img width="480" height="1150" alt="image" src="https://github.com/user-attachments/assets/5bde7703-fdf9-4da6-95b7-a2ab7e62522c" />
+<img width="643" height="2068" alt="image" src="https://github.com/user-attachments/assets/0f3b6a09-ae94-464e-bf17-ef0775f826ac" />
 
 <h4>Implementation Timeline</h4>
 <p><b>Phase 1 – Development & Prototyping (Months 1–6)</b></p>
