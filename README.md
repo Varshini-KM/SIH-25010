@@ -121,7 +121,7 @@ For example, a woman farmer who cannot read interacts with the kiosk in her nati
 <b>System Architecture Workflow:</b>
 <img width="3840" height="1651" alt="Untitled diagram _ Mermaid Chart-2025-09-22-050700" src="https://github.com/user-attachments/assets/06a9cbb8-7a88-4de0-bf35-c9aab7d7fcdf" />
 <b>User Interaction Process Flow:</b>
-![user pic](https://github.com/user-attachments/assets/f7045eb5-7e5c-4609-80f7-719d6e37338d)
+<img width="480" height="1150" alt="image" src="https://github.com/user-attachments/assets/5bde7703-fdf9-4da6-95b7-a2ab7e62522c" />
 
 
 <p><b>Phase 1 – Development & Prototyping (Months 1–6)</b></p>
